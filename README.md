@@ -4,7 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There,%20I'm%20Shamyuktta%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20ML%20Engineer%20|%20Full%20Stack%20Developer%20|%20Builder&descAlignY=55&descSize=17" width="100%"/>
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Engineering+Student+%7C+Data+Science+%26+ML;Building+scalable+AI-powered+solutions;Smart+India+Hackathon+2025+Finalist+%F0%9F%8F%86;Turning+data+into+decisions+%F0%9F%93%88" alt="Typing SVG" /></a>
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=%F0%9F%8E%93+ECE+Undergrad+%7C+Data+Science%2C+AI+Engineering+%26+VLSI;%F0%9F%8F%86+SIH+2025+Finalist+%7C+Systems+built+for+500%2B+active+users;Building+scalable+AI-powered+solutions;Turning+data+into+decisions+%F0%9F%93%88" alt="Typing SVG" /></a>
 
 <br/>
 
