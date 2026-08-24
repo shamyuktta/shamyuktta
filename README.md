@@ -94,6 +94,7 @@ Engineering student specializing in **Data Science & Machine Learning**, with ha
 <p align="left">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -101,6 +102,21 @@ Engineering student specializing in **Data Science & Machine Learning**, with ha
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/IoT-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agents-a855f7?style=for-the-badge"/>
+</p>
+
+<br/>
+
+**GenAI & Agentic Systems**
+<p align="left">
+<img src="https://img.shields.io/badge/Generative%20AI-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
 <br/>
