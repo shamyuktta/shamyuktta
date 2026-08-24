@@ -4,8 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There,%20I'm%20Shamyuktta%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20ML%20Engineer%20|%20Full%20Stack%20Developer%20|%20Builder&descAlignY=55&descSize=17" width="100%"/>
 
 <!-- Typing animation -->
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=%F0%9F%8E%93+ECE+Undergrad+%7C+Data+Science%2C+AI+Engineering+%26+VLSI;%F0%9F%8F%86+SIH+2025+Finalist+%7C+Systems+built+for+500%2B+active+users;Building+scalable+AI-powered+solutions;Turning+data+into+decisions+%F0%9F%93%88" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=%F0%9F%8E%93+ECE+Undergraduate+specializing+in+Data+Science%2C+AI+Engineering+%26+VLSI%E2%80%94bridging+hardware-level+design+with+intelligent+systems%2C;%F0%9F%8F%86+Track+Record%3A+Smart+India+Hackathon+2025+Finalist+with+proven+impact+deploying+data-driven+systems+serving+500%2B+active+users.%2C;building+scalable+ai+powered+sasolutions%2C;turning+data+into+decisions." alt="Typing SVG" /></a>
 
 <br/>
 
@@ -34,7 +33,7 @@
 
 <br clear="right"/>
 
-<br clear="right"/>
+<br/>
 
 <!-- ============ SOCIALS ============ -->
 ## 🌐 Connect With Me
@@ -61,6 +60,16 @@
 
 <!-- ============ SKILLS ============ -->
 ## 🛠️ Tech Stack & Tools
+
+**GenAI & Agentic Systems**
+<p align="left">
+<img src="https://img.shields.io/badge/Generative%20AI-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
 
 **Machine Learning & Data Science**
 <p align="left">
@@ -97,7 +106,6 @@
 <p align="left">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -105,21 +113,6 @@
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/IoT-a855f7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-a855f7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-a855f7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multi--Agents-a855f7?style=for-the-badge"/>
-</p>
-
-<br/>
-
-**GenAI & Agentic Systems**
-<p align="left">
-<img src="https://img.shields.io/badge/Generative%20AI-a855f7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-a855f7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-a855f7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-a855f7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-a855f7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
 <br/>
