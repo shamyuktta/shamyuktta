@@ -19,11 +19,6 @@
 <!-- ============ ABOUT ME ============ -->
 ## 🚀 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/GDGVIT/gdvit-assets/main/gif/coding.gif" alt="coding gif"/>
-
-<!-- ============ ABOUT ME ============ -->
-## 🚀 About Me
-
 <img align="right" width="310" src="https://raw.githubusercontent.com/GDGVIT/gdvit-assets/main/gif/coding.gif" alt="coding gif"/>
 
 🎓 **Electronics & Communication Engineering Student** specializing in **Data Science, AI Engineering & Systems Design**. I bridge hardware and software by combining **VLSI fundamentals** with **predictive analytics, GenAI/RAG architectures, and scalable machine learning**.
