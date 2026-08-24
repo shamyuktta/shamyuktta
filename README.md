@@ -21,15 +21,22 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/GDGVIT/gdvit-assets/main/gif/coding.gif" alt="coding gif"/>
 
-Engineering student specializing in **Data Science & Machine Learning**, with hands-on experience applying statistical modeling, predictive analytics, and ML frameworks (**Scikit-learn, TensorFlow, PyTorch**) to large-scale datasets.
+<!-- ============ ABOUT ME ============ -->
+## 🚀 About Me
 
-- 🔬 Skilled in **experimental design, feature engineering & prototyping scalable AI solutions**
-- 🏆 **Smart India Hackathon 2025 Finalist**
-- 📈 Proven track record deploying data-driven systems reaching **500+ users**
-- 🌱 Currently sharpening **Java, SQL & DSA,System Design and VLSI **
-- 💬 Ask me about **Machine Learning, Deep Learning, Python, IoT**
-- 📫 Reach me at **shamyukttab@gmail.com**
-- ⚡ Fun fact: **I will expect the unexpected — wow**
+<img align="right" width="310" src="https://raw.githubusercontent.com/GDGVIT/gdvit-assets/main/gif/coding.gif" alt="coding gif"/>
+
+🎓 **Electronics & Communication Engineering Student** specializing in **Data Science, AI Engineering & Systems Design**. I bridge hardware and software by combining **VLSI fundamentals** with **predictive analytics, GenAI/RAG architectures, and scalable machine learning**.
+
+- 🤖 **AI & Data Science:** Hands-on experience developing predictive models, multi-agent workflows, and end-to-end ML pipelines using **Scikit-learn, PyTorch, TensorFlow, AWS, and Azure AI**.
+- ⚙️ **Hardware & Edge Systems:** Leveraging ECE principles, **VLSI concepts, and IoT integration** to design efficient, hardware-aware AI solutions.
+- 🏆 **Proven Impact:** **Smart India Hackathon 2025 Finalist** with a track record of engineering data-driven systems serving **500+ active users**.
+- 🌱 **Currently Sharpening:** Java, Advanced SQL, Data Structures & Algorithms (DSA), System Design & VLSI Architecture.
+- 💬 **Ask Me About:** Machine Learning, Deep Learning, GenAI & Multi-Agent Systems, Python, IoT.
+- 📫 **Let's Connect:** [shamyukttab@gmail.com](mailto:shamyukttab@gmail.com)
+- ⚡ **Fun Fact:** I expect the unexpected — and turn complex edge cases into functional code.
+
+<br clear="right"/>
 
 <br clear="right"/>
 
