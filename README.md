@@ -26,7 +26,7 @@ Engineering student specializing in **Data Science & Machine Learning**, with ha
 - 🔬 Skilled in **experimental design, feature engineering & prototyping scalable AI solutions**
 - 🏆 **Smart India Hackathon 2025 Finalist**
 - 📈 Proven track record deploying data-driven systems reaching **500+ users**
-- 🌱 Currently sharpening **UI/UX Design, SQL & DSA**
+- 🌱 Currently sharpening **Java, SQL & DSA,System Design and VLSI **
 - 💬 Ask me about **Machine Learning, Deep Learning, Python, IoT**
 - 📫 Reach me at **shamyukttab@gmail.com**
 - ⚡ Fun fact: **I will expect the unexpected — wow**
