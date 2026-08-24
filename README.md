@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There,%20I%27m%20Shamyuktta%20%F0%9F%90%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ECE%20Undergrad%20%7C%20AI%20%26%20Data%20Science%20Engineer%20%7C%20VLSI%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There,%20I'm%20Shamyuktta%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ECE%20Undergrad%20%7C%20AI%20%26%20Data%20Science%20Engineer%20%7C%20VLSI%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=%F0%9F%8E%93+ECE+Undergraduate+specializing+in+Data+Science%2C+AI+Engineering+%26+VLSI--bridging+hardware-level+design+with+intelligent+systems%2C;%F0%9F%8F%86+Track+Record%3A+Smart+India+Hackathon+2025+Finalist+with+proven+impact+deploying+data-driven+systems+serving+500%2B+active+users.%2C;building+scalable+ai+powered+sasolutions%2C;turning+data+into+decisions." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=%F0%9F%8E%93+ECE+Undergrad+%7C+Data+Science%2C+AI+Engineering+%26+VLSI;%F0%9F%8F%86+SIH+2025+Finalist+%7C+Systems+built+for+500%2B+active+users;Building+scalable+AI-powered+solutions;Turning+data+into+decisions+%F0%9F%93%88" alt="Typing SVG" /></a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=shamyuktta&label=Profile%20Views&color=a855f7&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/shamyuktta?label=Followers&style=for-the-badge&color=a855f7" alt="followers"/>
-<img src="https://img.shields.io/badge/%F0%9F%93%9D-Chennai,%20India-a855f7?style=for-the-badge" alt="location"/>
+<img src="https://img.shields.io/badge/📍-Chennai,%20India-a855f7?style=for-the-badge" alt="location"/>
 
 </div>
 
